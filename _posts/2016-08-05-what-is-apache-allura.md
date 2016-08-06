@@ -5,8 +5,6 @@ tags:
 - gsoc
 ---
 
-##About Allura
-
 Apache Allura is a Top-Level Project under the Apache Software Foundation since April of 2014. 
 It powers SourceForge, Open Source Projects Europe, DLR German Aerospace Center and DARPA's VehicleForge.  
 
@@ -25,14 +23,15 @@ for powerusers.
 
 This week, I will be posting a series of posts about Allura. So stay tuned!
 
-##Further Reading
-- [An Open Forge](https://sourceforge.net/blog/an-open-forge/)
-- [The Apache Software Foundation Announces Apache™ Allura™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces52)
-- [Open Hub](https://www.openhub.net/p/allura)
-- [About SourceForge](https://sourceforge.net/about)
-- [About DARPA VehicleForge](http://cps-vo.org/group/avm/vehicleforge)
-- [SourceForge announces Apache Allura](https://sourceforge.net/blog/apache-allura-becomes-top-level-project/)
-- [Apache Allura Wiki - Features](https://forge-allura.apache.org/p/allura/wiki/Features/)
-- [Apache Allura Wiki - Feature Comparison](https://forge-allura.apache.org/p/allura/wiki/Feature%20Comparison/)
-- [Source Code](https://forge-allura.apache.org/p/allura/git/ci/master/tree/)
-- Also hosted as a mirror on Github:  [![GitHub Stars](https://img.shields.io/github/stars/apache/allura.svg)](https://github.com/apache/allura/stargazers)
+Further Reading: 
+
+* [An Open Forge](https://sourceforge.net/blog/an-open-forge/)
+* [The Apache Software Foundation Announces Apache™ Allura™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces52)
+* [Open Hub](https://www.openhub.net/p/allura)
+* [About SourceForge](https://sourceforge.net/about)
+* [About DARPA VehicleForge](http://cps-vo.org/group/avm/vehicleforge)
+* [SourceForge announces Apache Allura](https://sourceforge.net/blog/apache-allura-becomes-top-level-project/)
+* [Apache Allura Wiki - Features](https://forge-allura.apache.org/p/allura/wiki/Features/)
+* [Apache Allura Wiki - Feature Comparison](https://forge-allura.apache.org/p/allura/wiki/Feature%20Comparison/)
+* [Source Code](https://forge-allura.apache.org/p/allura/git/ci/master/tree/)
+* Also hosted as a mirror on Github:  [![GitHub Stars](https://img.shields.io/github/stars/apache/allura.svg)](https://github.com/apache/allura/stargazers)
