@@ -4,7 +4,7 @@ layout: post
 ---
 
 There is a hidden method to share your WiFi over Ethernet in the latest Gnome. I stumbled upon this while trying to connect
-my RaspberryPi 3B with my Universities Internet. 
+my RaspberryPi 3B with my University's Internet. 
 
 1. Type `nm-connection-editor` in your terminal.
 2. Add a shared network connection by pressing the Add button. 
