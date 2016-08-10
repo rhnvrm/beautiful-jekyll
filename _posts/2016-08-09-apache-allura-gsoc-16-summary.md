@@ -45,7 +45,7 @@ It makes it easier to digest the concept of neighborhoods for users who are used
 
 Now you can resize the length of the columns in the ticket listing.
 
-![Resize Gif](resize_ticket_s.gif)
+![Resize](http://i.imgur.com/iC3fGex.gifv)
 
 Also you can now click on the username in the Owner column to view all tickets that have been assigned to that user directly from the ticket listing.
 
