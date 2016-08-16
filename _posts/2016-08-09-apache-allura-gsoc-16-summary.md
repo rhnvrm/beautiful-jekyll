@@ -5,7 +5,7 @@ tags:
 - gsoc
 ---
 
-This post has the summary of my work during GSoC 2016. Hopefully I was able to cover everything. You can also see my work on forge-allura.
+This post has the summary of my work during GSoC 2016. Hopefully I was able to cover everything. You can also see my work on [forge-allura](https://forge-allura.apache.org/p/allura/git). Also, you can visually see a list of my commits made during GSoC that also contains the miscellaneous work  [here](https://github.com/apache/allura/commits/f403b8c4e44f2065e4d4529050d499252e914f25?author=rhnvrm).
 
 ### Discussion Tool Changes
 
@@ -30,6 +30,8 @@ You can also use Unicode Emoji's within the discussion tool and they will be ren
 ![Imgur](http://i.imgur.com/LoTab39.png)
 
 Emoji Support enables users to use their devices emoji input keyboards and enter data. Also, now teams can use a simple Thumbs Up emoji instead of writing words to express themselves.
+
+You can view the results live on [SourceForge](https://sourceforge.net/p/texstudio/bugs/1872/) as well.
 
 ### Improved Landing Page
 
@@ -63,7 +65,7 @@ Also, there are now dedicated buttons matching the Forge theme that you can use 
 
 Also, you can now Refresh the commits without having to manually edit the merge request, saving 4-5 clicks using the Refresh Commits button.
 
-![Imgur](http://i.imgur.com/izu38m5.png)
+![Imgur](http://i.imgur.com/rkjlglc.png)
 
 
 ### What could not be completed or was not done
@@ -100,7 +102,7 @@ Clicking that button adds a meta post as a reply to the post. But it looks ugly 
 
 The other method was to try to make the artifact votable but here the problem was that I could not get it to work as per my thought of how it should look and work. In this way I wanted a menu on the bottom. 
 
-The code for all of these unimplemented work is available on my forked repo on forge-allura.
+The code for all of these unimplemented work is available on my forked repo on forge-allura [here](https://forge-allura.apache.org/u/rhnvrm/allura/ref/master/branches/). You can find all the branches with the unimplemented work mentioned here as well as other experiments. (My Branches begin with `feature` or `rhnvrm/`)
 
 ### Other Cool Stuff I did related to Allura
 
@@ -129,7 +131,7 @@ Here the makefile was very useful. Although I did not use it directly but I atle
 
 #### Deployed Allura for my University
 
-Using the Raspberry Pi I am planning to deploy it for my university for using it for our Coding Club and also for internal usage.
+Using the Raspberry Pi I am planning to deploy it for my university for using it for our Coding Club and also for internal usage. I have emailed my department and am hoping for a positive response.
 
 #### Setup and hosted a small Allura Instance for testing on Digital Ocean
 
